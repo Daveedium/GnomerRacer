@@ -1,0 +1,8 @@
+## Interface: 120007
+## Title: Gnomer Racer
+## Notes: Race Timer + Scavenger Hunt
+## Author: Daveedium
+## Version: 1.0.0
+## SavedVariables: HomeLapTimerDB
+
+GnomerRacer.lua
